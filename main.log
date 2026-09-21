@@ -1,0 +1,1680 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.21)  21 SEP 2026 23:27
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Thesis Folder/Synthetic_Tex/main.tex"
+(d:/Thesis Folder/Synthetic_Tex/main.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+(e:/texlive/2026/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(e:/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count276
+\c@chapter=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+) (e:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (e:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (e:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+) (e:/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/09/09 v26.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count288
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2095.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2097.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2099.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2100.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2101.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2103.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2128.
+\U@D=\dimen159
+\l@unhyphenated=\language91
+ (e:/texlive/2026/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count289
+ (e:/texlive/2026/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing font and identification data for 'english'
+(babel)             from babel-en.ini. Reported on input line 4459.
+ (e:/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 108.
+)) (e:/texlive/2026/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (e:/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
+ (e:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count290
+)
+\csq@reset=\count291
+\csq@gtype=\count292
+\csq@glevel=\count293
+\csq@qlevel=\count294
+\csq@maxlvl=\count295
+\csq@tshold=\count296
+\csq@ltx@everypar=\toks21
+ (e:/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2026-05-19 v5.2p csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (e:/texlive/2026/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)) (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(e:/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen160
+)) (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+) (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count302
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count303
+\dotsspace@=\muskip17
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks23
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks24
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks25
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+) (e:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (e:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+) (e:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (e:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen171
+\captionmargin=\dimen172
+\caption@leftmargin=\dimen173
+\caption@rightmargin=\dimen174
+\caption@width=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count309
+\c@continuedfloat=\count310
+) (e:/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen179
+\ar@mcellbox=\box55
+\extrarowheight=\dimen180
+\NC@list=\toks27
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box56
+) (e:/texlive/2026/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2026/06/01 v1.5l extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (e:/texlive/2026/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box57
+\UL@hyphenbox=\box58
+\UL@skip=\skip56
+\UL@hook=\toks28
+\UL@height=\dimen181
+\UL@pe=\count311
+\UL@pixel=\dimen182
+\ULC@box=\box59
+Package: ulem 2019/11/18
+\ULdepth=\dimen183
+) (e:/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
+ (e:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (e:/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (e:/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (e:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (e:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (e:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (e:/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (e:/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+ (e:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (e:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (e:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count312
+) (e:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen184
+\Hy@linkcounter=\count313
+\Hy@pagecounter=\count314
+ (e:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (e:/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count315
+ (e:/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count316
+ (e:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen185
+ (e:/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (e:/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count317
+\Field@Width=\dimen186
+\Fld@charsize=\dimen187
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count318
+\c@Item=\count319
+\c@Hfootnote=\count320
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (e:/texlive/2026/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-06-17 v7.01r Hyperref driver for pdfTeX
+\Fld@listcount=\count321
+\c@bookmark@seq@number=\count322
+ (e:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (e:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip57
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 53.
+ (e:/texlive/2026/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+ (e:/texlive/2026/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
+ (e:/texlive/2026/texmf-dist/tex/generic/xkeyval/xkeyval.tex (e:/texlive/2026/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+\XKV@tempb@toks=\toks31
+)
+\XKV@depth=\count323
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (e:/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (e:/texlive/2026/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2026/02/02 v3.49.2 KOMA-Script package (handling toc-files)
+ (e:/texlive/2026/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (e:/texlive/2026/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
+ (e:/texlive/2026/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hooks)
+ (e:/texlive/2026/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
+)
+\scr@dte@tocline@numberwidth=\skip58
+\scr@dte@tocline@numbox=\box60
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen188
+\nom@tempdim=\dimen189
+\nomitemsep=\skip59
+)
+\@nomenclaturefile=\write3
+\openout3 = `main.nlo'.
+
+Package nomencl Info: Writing nomenclature file main.nlo on input line 60.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2026/08/13 v3.22 programmable bibliographies (PK/MW)
+ (e:/texlive/2026/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count324
+ (e:/texlive/2026/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count325
+\c@listtotal=\count326
+\c@listcount=\count327
+\c@liststart=\count328
+\c@liststop=\count329
+\c@citecount=\count330
+\c@citetotal=\count331
+\c@multicitecount=\count332
+\c@multicitetotal=\count333
+\c@instcount=\count334
+\c@maxnames=\count335
+\c@minnames=\count336
+\c@maxitems=\count337
+\c@minitems=\count338
+\c@citecounter=\count339
+\c@maxcitecounter=\count340
+\c@savedcitecounter=\count341
+\c@uniquelist=\count342
+\c@uniquename=\count343
+\c@refsection=\count344
+\c@refsegment=\count345
+\c@maxextratitle=\count346
+\c@maxextratitleyear=\count347
+\c@maxextraname=\count348
+\c@maxextradate=\count349
+\c@maxextraalpha=\count350
+\c@abbrvpenalty=\count351
+\c@highnamepenalty=\count352
+\c@lownamepenalty=\count353
+\c@maxparens=\count354
+\c@parenlevel=\count355
+\blx@tempcnta=\count356
+\blx@tempcntb=\count357
+\blx@tempcntc=\count358
+\c@blx@maxsection=\count359
+\blx@maxsegment@0=\count360
+\blx@notetype=\count361
+\blx@parenlevel@text=\count362
+\blx@parenlevel@foot=\count363
+\blx@sectionciteorder@0=\count364
+\blx@sectionciteorderinternal@0=\count365
+\blx@entrysetcounter=\count366
+\blx@biblioinstance=\count367
+\labelnumberwidth=\skip60
+\labelalphawidth=\skip61
+\biblabelsep=\skip62
+\bibitemsep=\skip63
+\bibnamesep=\skip64
+\bibinitsep=\skip65
+\bibparsep=\skip66
+\bibhang=\skip67
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language92
+\c@mincomprange=\count368
+\c@maxcomprange=\count369
+\c@mincompwidth=\count370
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2026/08/13 v3.22 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count371
+\c@savedafterword=\count372
+\c@annotator=\count373
+\c@savedannotator=\count374
+\c@author=\count375
+\c@savedauthor=\count376
+\c@bookauthor=\count377
+\c@savedbookauthor=\count378
+\c@commentator=\count379
+\c@savedcommentator=\count380
+\c@editor=\count381
+\c@savededitor=\count382
+\c@editora=\count383
+\c@savededitora=\count384
+\c@editorb=\count385
+\c@savededitorb=\count386
+\c@editorc=\count387
+\c@savededitorc=\count388
+\c@foreword=\count389
+\c@savedforeword=\count390
+\c@holder=\count391
+\c@savedholder=\count392
+\c@introduction=\count393
+\c@savedintroduction=\count394
+\c@namea=\count395
+\c@savednamea=\count396
+\c@nameb=\count397
+\c@savednameb=\count398
+\c@namec=\count399
+\c@savednamec=\count400
+\c@translator=\count401
+\c@savedtranslator=\count402
+\c@shortauthor=\count403
+\c@savedshortauthor=\count404
+\c@shorteditor=\count405
+\c@savedshorteditor=\count406
+\c@labelname=\count407
+\c@savedlabelname=\count408
+\c@institution=\count409
+\c@savedinstitution=\count410
+\c@lista=\count411
+\c@savedlista=\count412
+\c@listb=\count413
+\c@savedlistb=\count414
+\c@listc=\count415
+\c@savedlistc=\count416
+\c@listd=\count417
+\c@savedlistd=\count418
+\c@liste=\count419
+\c@savedliste=\count420
+\c@listf=\count421
+\c@savedlistf=\count422
+\c@location=\count423
+\c@savedlocation=\count424
+\c@organization=\count425
+\c@savedorganization=\count426
+\c@origlocation=\count427
+\c@savedoriglocation=\count428
+\c@origpublisher=\count429
+\c@savedorigpublisher=\count430
+\c@publisher=\count431
+\c@savedpublisher=\count432
+\c@language=\count433
+\c@savedlanguage=\count434
+\c@origlanguage=\count435
+\c@savedoriglanguage=\count436
+\c@pageref=\count437
+\c@savedpageref=\count438
+\shorthandwidth=\skip68
+\shortjournalwidth=\skip69
+\shortserieswidth=\skip70
+\shorttitlewidth=\skip71
+\shortauthorwidth=\skip72
+\shorteditorwidth=\skip73
+\locallabelnumberwidth=\skip74
+\locallabelalphawidth=\skip75
+\localshorthandwidth=\skip76
+\localshortjournalwidth=\skip77
+\localshortserieswidth=\skip78
+\localshorttitlewidth=\skip79
+\localshortauthorwidth=\skip80
+\localshorteditorwidth=\skip81
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+\c@textcitecount=\count439
+\c@textcitetotal=\count440
+\c@textcitemaxnames=\count441
+\c@biburlbigbreakpenalty=\count442
+\c@biburlbreakpenalty=\count443
+\c@biburlnumpenalty=\count444
+\c@biburlucpenalty=\count445
+\c@biburllcpenalty=\count446
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count447
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+File: ieee.bbx 2025-08-01 v1.4f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count448
+\c@bbx:relatedtotal=\count449
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx
+File: numeric-verb.cbx 2026/08/13 v3.22 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (e:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-08-10 L3 programming layer (loader) 
+ (e:/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count450
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2026-08-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (e:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2026/08/13 v3.22 expl3 case changing code for biblatex
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+
+
+LaTeX Warning: Unused global option(s):
+    [Times,print,index].
+
+(./main.aux
+
+LaTeX Warning: Label `fig:sample' multiply defined.
+
+
+LaTeX Warning: Label `fig:sample' multiply defined.
+
+
+LaTeX Warning: Label `fig:sample' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(e:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count451
+\scratchdimen=\dimen190
+\scratchbox=\box61
+\nofMPsegments=\count452
+\nofMParguments=\count453
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count454
+\MPscratchDim=\dimen191
+\MPnumerator=\count455
+\makeMPintoPDFobject=\count456
+\everyMPtoPDFconversion=\toks33
+) (e:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (e:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2026-05-17 v1.3f Standard LaTeX Color (DPC)
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (e:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 67.
+ (./main.out) (./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (e:/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 67.
+Package biblatex Info: Reference segment=0 on input line 67.
+Package babel Info: Main language set to 'english'.
+ (./core/titlepage.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 7.
+
+[1
+
+{e:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{e:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./core/declaration.tex
+<images/Anirban.pdf, id=151, 301.125pt x 80.3pt>
+File: images/Anirban.pdf Graphic file (type pdf)
+<use images/Anirban.pdf>
+Package pdftex.def Info: images/Anirban.pdf  used on input line 26.
+(pdftex.def)             Requested size: 113.81102pt x 30.35011pt.
+<images/Rafi.pdf, id=152, 1449.415pt x 794.97pt>
+File: images/Rafi.pdf Graphic file (type pdf)
+<use images/Rafi.pdf>
+Package pdftex.def Info: images/Rafi.pdf  used on input line 27.
+(pdftex.def)             Requested size: 56.9055pt x 31.21112pt.
+<images/Shafin.pdf, id=153, 1084.05pt x 781.92125pt>
+File: images/Shafin.pdf Graphic file (type pdf)
+<use images/Shafin.pdf>
+Package pdftex.def Info: images/Shafin.pdf  used on input line 35.
+(pdftex.def)             Requested size: 113.81102pt x 82.08626pt.
+<images/Anika.png, id=154, 373.395pt x 225.84375pt>
+File: images/Anika.png Graphic file (type png)
+<use images/Anika.png>
+Package pdftex.def Info: images/Anika.png  used on input line 36.
+(pdftex.def)             Requested size: 113.81102pt x 68.83571pt.
+ [1
+
+ <./images/Anirban.pdf> <./images/Rafi.pdf> <./images/Shafin.pdf> <./images/Anika.png>]) (./core/approval.tex
+<images/AVB_Sign.pdf, id=178, 642.4pt x 321.2pt>
+File: images/AVB_Sign.pdf Graphic file (type pdf)
+<use images/AVB_Sign.pdf>
+Package pdftex.def Info: images/AVB_Sign.pdf  used on input line 21.
+(pdftex.def)             Requested size: 170.71652pt x 85.35774pt.
+ [2 <./images/AVB_Sign.pdf>]) [3] (./core/ethics_statement.tex) [4] (./core/abstract.tex) [5] (./core/dedication.tex) (./core/acknowledgement.tex) [6] (./main.toc [7
+
+
+])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [8] (./main.lof
+Overfull \hbox (42.53165pt too wide) in paragraph at lines 3--3
+ [][] [][][]\OT1/cmr/m/n/12 Gathering Pedes-tri-ans, adapted from [][]$https : / / en . bonikbarta . com / bangladesh / 
+ []
+
+)
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+ [9
+
+] (./main.lot)
+\tf@lot=\write8
+\openout8 = `main.lot'.
+
+
+No file main.nls.
+[10
+
+]
+Chapter 1.
+(./chapters/chapter_1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[1
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+<images/rickshaw_gathering.pdf, id=283, 1405.25pt x 790.955pt>
+File: images/rickshaw_gathering.pdf Graphic file (type pdf)
+<use images/rickshaw_gathering.pdf>
+Package pdftex.def Info: images/rickshaw_gathering.pdf  used on input line 18.
+(pdftex.def)             Requested size: 256.0748pt x 144.12782pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Pedestrian.pdf, id=284, 688.5725pt x 962.59625pt>
+File: images/Pedestrian.pdf Graphic file (type pdf)
+<use images/Pedestrian.pdf>
+Package pdftex.def Info: images/Pedestrian.pdf  used on input line 24.
+(pdftex.def)             Requested size: 113.81102pt x 159.1006pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[3 <./images/rickshaw_gathering.pdf> <./images/Pedestrian.pdf>]
+<images/flowchart.pdf, id=306, 2758.305pt x 265.99374pt>
+File: images/flowchart.pdf Graphic file (type pdf)
+<use images/flowchart.pdf>
+Package pdftex.def Info: images/flowchart.pdf  used on input line 47.
+(pdftex.def)             Requested size: 256.0748pt x 24.69331pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+[4 <./images/flowchart.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+) [6]
+Chapter 2.
+(./chapters/chapter_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+<images/Pink Sequence Chart (1).pdf, id=322, 1927.2pt x 1084.05pt>
+File: images/Pink Sequence Chart (1).pdf Graphic file (type pdf)
+<use images/Pink Sequence Chart (1).pdf>
+Package pdftex.def Info: images/Pink Sequence Chart (1).pdf  used on input line 8.
+(pdftex.def)             Requested size: 256.0748pt x 144.0412pt.
+[7
+
+ <./images/Pink Sequence Chart (1).pdf>]
+Overfull \hbox (5.60301pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/12 CARLA) for cre-at-ing dy-namic, on-demand "cor-ner cases," and Gen-er-a-tive AI (GANs)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+[10]
+Underfull \hbox (badness 1430) in paragraph at lines 63--63
+\OT1/cmr/m/n/12 to map raw cam-era
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 64--64
+[]|\OT1/cmr/m/n/12 CNN learned en-tire
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/12 fol-low-ing with-out
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/12 man-ual de-com-po-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/12 mark-ing de-tec-tion,
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 64--64
+\OT1/cmr/m/n/12 path plan-ning, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\OT1/cmr/m/n/12 Virtual en-vi-ron-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 67--67
+\OT1/cmr/m/n/12 ment for train-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/m/n/12 au-tonomous ve-hi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/cmr/m/n/12 Virtual sim-u-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 tion en-vi-ron-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 (Unity/Game en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 gines) mim-ick-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 real sen-sors (Li-
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 72--72
+[]|\OT1/cmr/m/n/12 Performance anal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\OT1/cmr/m/n/12 y-sis of vehicle-
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 72--72
+\OT1/cmr/m/n/12 specific meth-ods...
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 driv-ing us-ing MAT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 LAB/Simulink and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\OT1/cmr/m/n/12 ve-hi-cle dy-nam-ics
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 74--74
+[]|\OT1/cmr/m/n/12 AVs per-form com-
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 74--74
+\OT1/cmr/m/n/12 pa-ra-bly to hu-mans
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 74--74
+\OT1/cmr/m/n/12 in good in-fras-truc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\OT1/cmr/m/n/12 IDD: A dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\OT1/cmr/m/n/12 Western mod-els
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+\OT1/cmr/m/n/12 (e.g., trained on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\OT1/cmr/m/n/12 PIE Dataset;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmr/m/n/12 RNN/LSTM mod-els
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 83--83
+\OT1/cmr/m/n/12 for pedes-trian in-ten-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\OT1/cmr/m/n/12 Context (traf-fic
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 is cru-cial; in-ten-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 pre-dic-tion re-quires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/cmr/m/n/12 tem-po-ral anal-y-sis,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\OT1/cmr/m/n/12 BDD100K: A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+\OT1/cmr/m/n/12 di-verse driv-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\OT1/cmr/m/n/12 BDD100K (100k
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 videos); Het-ero-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\OT1/cmr/m/n/12 ge-neous Mul-ti-task
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 89--89
+[]|\OT1/cmr/m/n/12 Validated that high
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 89--89
+\OT1/cmr/m/n/12 time, and lo-ca-tion
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 89--89
+\OT1/cmr/m/n/12 is es-sen-tial to pre-
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 89--89
+\OT1/cmr/m/n/12 vent model over-fit-
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 89--89
+\OT1/cmr/m/n/12 ting; en-ables multi-
+ []
+
+
+Overfull \hbox (1.62991pt too wide) in paragraph at lines 58--93
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/cmr/m/n/12 rep-re-sen-ta-tion...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]|\OT1/cmr/m/n/12 BEVFormer (Spa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\OT1/cmr/m/n/12 tiotem-po-ral Trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/cmr/m/n/12 Achieved state-of-
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 102--102
+\OT1/cmr/m/n/12 multi-camera in-puts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]|\OT1/cmr/m/n/12 How sim-u-la-tion
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 105--105
+\OT1/cmr/m/n/12 helps au-tonomous
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 106--106
+[]|\OT1/cmr/m/n/12 Survey of Sim2Real,
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 106--106
+\OT1/cmr/m/n/12 Dig-i-tal Twins, and
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 107--107
+\OT1/cmr/m/n/12 closed-loop "Par-al-lel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\OT1/cmr/m/n/12 BadODD:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/cmr/m/n/12 Bangladeshi au-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/cmr/m/n/12 tonomous driv-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/cmr/m/n/12 ob-ject de-tec-tion
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 110--110
+\OT1/cmr/m/n/12 dataset (Baig et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\OT1/cmr/m/n/12 con-tain-ing unique
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 112--112
+\OT1/cmr/m/n/12 Bangladeshi ve-hi-cles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\OT1/cmr/m/n/12 (Rick-shaws, CNGs)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\OT1/cmr/m/n/12 ab-sent in global
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 115--115
+[]|\OT1/cmr/m/n/12 Improving end-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\OT1/cmr/m/n/12 end au-tonomous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 SynDiff-AD (La-tent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 Dif-fu-sion Mod-els);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 Syn-thetic vari-a-tions
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 117--117
+[]|\OT1/cmr/m/n/12 Improved seg-men-ta-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 117--117
+\OT1/cmr/m/n/12 tion (Mask2Former)
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 117--117
+\OT1/cmr/m/n/12 by +1.4 mIoU and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/12 plan-ning by 20%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/12 weather con-di-tions
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 120--120
+[]|\OT1/cmr/m/n/12 Autonomous driv-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\OT1/cmr/m/n/12 Highlighted that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\OT1/cmr/m/n/12 "lane-based" plan-
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 125--125
+[]|\OT1/cmr/m/n/12 A sur-vey on au-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
+\OT1/cmr/m/n/12 tonomous driv-ing
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 127--127
+[]|\OT1/cmr/m/n/12 Identified se-vere ge-
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 127--127
+\OT1/cmr/m/n/12 o-graphic bias (45%
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 127--127
+\OT1/cmr/m/n/12 US/Germany); con-
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 130--130
+[]|\OT1/cmr/m/n/12 Synthetic datasets
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\OT1/cmr/m/n/12 for au-tonomous
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 131--131
+[]|\OT1/cmr/m/n/12 Survey of syn-thetic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+\OT1/cmr/m/n/12 (Game en-gines vs.
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 132--132
+[]|\OT1/cmr/m/n/12 Synthetic data acts
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 132--132
+\OT1/cmr/m/n/12 real-world data col-
+ []
+
+
+Overfull \hbox (1.62991pt too wide) in paragraph at lines 96--136
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\OT1/cmr/m/n/12 Microscopic ve-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+\OT1/cmr/m/n/12 hi-cle tra-jec-tory
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 144--144
+[]|\OT1/cmr/m/n/12 UAV (Drone) video
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\OT1/cmr/m/n/12 col-lec-tion in In-dia;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\OT1/cmr/m/n/12 Vehicles in mixed
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 145--145
+\OT1/cmr/m/n/12 traf-fic ig-nore lanes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\OT1/cmr/m/n/12 and uti-lize lat-eral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\OT1/cmr/m/n/12 space ("creep-ing");
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\OT1/cmr/m/n/12 de-fined non-linear
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\OT1/cmr/m/n/12 flow dy-nam-ics of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]|\OT1/cmr/m/n/12 Being good (at
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 driv-ing): Char-ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 ex-pec-ta-tions...
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 (Fraade-Blanar et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+[]|\OT1/cmr/m/n/12 Conceptual frame-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\OT1/cmr/m/n/12 Differentiated be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 tween Nor-ma-tive
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 be-hav-iors to be ac-
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 153--153
+[]|\OT1/cmr/m/n/12 Evaluating YOLO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--153
+\OT1/cmr/m/n/12 ar-chi-tec-tures...
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]|\OT1/cmr/m/n/12 YOLO v8, v9,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\OT1/cmr/m/n/12 v10 eval-u-a-tion on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\OT1/cmr/m/n/12 Bangladesh traf-fic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\OT1/cmr/m/n/12 ve-hi-cles (Le-guna,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\OT1/cmr/m/n/12 Nosi-mon); re-quires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\OT1/cmr/m/n/12 architecture-specific
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+\OT1/cmr/m/n/12 tun-ing for lo-cal
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 158--158
+\OT1/cmr/m/n/12 real-world end-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+[]|\OT1/cmr/m/n/12 SynAD frame-work;
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 160--160
+[]|\OT1/cmr/m/n/12 Enhances real-world
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 160--160
+\OT1/cmr/m/n/12 mod-els by pro-ject-
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 160--160
+\OT1/cmr/m/n/12 ing syn-thetic path-
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 160--160
+\OT1/cmr/m/n/12 level sce-nar-ios into
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]|\OT1/cmr/m/n/12 Developing India-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\OT1/cmr/m/n/12 specific vir-tual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+\OT1/cmr/m/n/12 val-i-dated "cut-in"
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 165--165
+\OT1/cmr/m/n/12 sce-nar-ios specif-i-cally
+ []
+
+
+Overfull \hbox (1.62991pt too wide) in paragraph at lines 139--169
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [11]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+[12] [13]
+Chapter 3.
+(./chapters/chapter_5.tex
+<images/Methodology.pdf, id=414, 963.35912pt x 614.295pt>
+File: images/Methodology.pdf Graphic file (type pdf)
+<use images/Methodology.pdf>
+Package pdftex.def Info: images/Methodology.pdf  used on input line 354.
+(pdftex.def)             Requested size: 426.79134pt x 272.14656pt.
+ [14
+
+] [15]
+Overfull \hbox (12.18338pt too wide) in paragraph at lines 360--363
+\OT1/cmr/m/n/12 work.Traditional sim-u-la-tion en-vi-ron-ments such as CARLA pro-vide phys-i-cally grounded
+ []
+
+[16 <./images/Methodology.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+[17] [18]) [19] [20]
+Chapter 4.
+(./chapters/chapter_9.tex) [21
+
+]
+Overfull \hbox (21.79585pt too wide) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 camera im-ages via spa-tiotem-po-ral trans-form-ers," \OT1/cmr/m/it/12 arXiv preprint arXiv:2203.17270\OT1/cmr/m/n/12 ,
+ []
+
+[22
+
+]
+Overfull \hbox (55.60939pt too wide) in paragraph at lines 148--148
+\OT1/cmr/m/n/12 ex-pec-ta-tions on au-to-mated and hu-man driven ve-hi-cles," \OT1/cmr/m/it/12 arXiv preprint arXiv:2502.08121\OT1/cmr/m/n/12 ,
+ []
+
+[23] [24] (./appendix/appendix_1.tex) (./appendix/appendix_2.tex) (./main.aux)
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 2F9A744C23BC25409476C2090045A599;4872.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22189 strings out of 467099
+ 401579 string characters out of 5412502
+ 1323412 words of memory out of 5000000
+ 51113 multiletter control sequences out of 15000+600000
+ 634346 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 110i,9n,107p,2107b,2317s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><e:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (35 pages, 5930077 bytes).
+PDF statistics:
+ 612 PDF objects out of 1000 (max. 8388607)
+ 508 compressed objects within 6 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 331 words of extra memory for PDF output out of 10000 (max. 10000000)
+

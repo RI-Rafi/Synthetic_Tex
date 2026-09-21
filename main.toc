@@ -1,0 +1,36 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Declaration}{i}{section*.1}%
+\contentsline {chapter}{Approval}{ii}{section*.3}%
+\contentsline {chapter}{Ethics Statement}{iv}{section*.5}%
+\contentsline {chapter}{Abstract}{v}{section*.7}%
+\contentsline {chapter}{Dedication}{vi}{section*.9}%
+\contentsline {chapter}{Acknowledgment}{vi}{section*.10}%
+\contentsline {chapter}{Table of Contents}{vii}{section*.12}%
+\contentsline {chapter}{List of Figures}{ix}{chapter*.14}%
+\contentsline {chapter}{List of Tables}{x}{chapter*.15}%
+\contentsline {chapter}{Nomenclature}{x}{chapter*.15}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Rational of the Study}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Problem Statement}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objective}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Methodology in Brief }{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Scopes and Challenges}{4}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Team Overview}{6}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Key Learnings and Insights}{6}{section.1.8}%
+\contentsline {chapter}{\numberline {2}Literature Review}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Preliminaries}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Review of Existing Research}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Summary of Key Findings}{11}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Proposed Methodology}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Methodology Overview}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Preliminary Design Specification}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Data Collection }{18}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Data Cleaning}{18}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Data Transformation}{18}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Data Integration}{18}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Data Reduction}{19}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Summary of Preprocessed Data}{19}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Implementation of Selected Design}{19}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Conclusion}{21}{chapter.4}%
+\contentsline {chapter}{Bibliography}{24}{chapter*.25}%

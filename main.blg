@@ -1,0 +1,19 @@
+[0] Config.pm:329> INFO - This is Biber 2.22
+[0] Config.pm:332> INFO - Logfile is 'main.blg'
+[223] biber-MSWIN64:342> INFO - === 
+[297] Biber.pm:421> INFO - Reading 'main.bcf'
+[467] Biber.pm:1002> INFO - Found 29 citekeys in bib section 0
+[488] Biber.pm:4487> INFO - Processing section 0
+[506] Biber.pm:4680> INFO - Looking for bibtex file 'bibliography/references.bib' for section 0
+[601] bibtex.pm:1713> INFO - LaTeX decoding ...
+[721] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography/references.bib'
+[1092] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1092] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1092] Biber.pm:4307> INFO - Sorting list 'ynt/global//global/global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[1093] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[1146] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1185] bbl.pm:779> INFO - Output to main.bbl
+[1186] Biber.pm:132> WARN - legacy month field 'July' in entry 'Pachhapurkar2025ARAI' is not an integer - this will probably not sort properly.
+[1186] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\RAFI~1\AppData\Local\Temp\biber_tmp_lGEb\33e59b5ca9ec342068223d604c3f8d55_29832.utf8, line 11, warning: 8 characters of junk seen at toplevel
+[1186] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\RAFI~1\AppData\Local\Temp\biber_tmp_lGEb\33e59b5ca9ec342068223d604c3f8d55_29832.utf8, line 99, warning: 3 characters of junk seen at toplevel
+[1186] Biber.pm:134> INFO - WARNINGS: 3
